@@ -1,0 +1,28 @@
+.header{
+    background-color: rgb(244, 215, 250);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    top: 0;
+    padding: 10px;
+    margin-left: 80px;
+    margin-top: 0%;
+    width: 1200px;
+    line-height: 0.6;
+    color: rgb(25, 124, 124);
+    opacity: 0.9;
+    border-radius:0px 0px 10px 10px;
+}
+.container{
+    
+    width: 1210px;
+    margin-top: 30px;
+    margin-left: 84px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.actors{
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 35px;
+}

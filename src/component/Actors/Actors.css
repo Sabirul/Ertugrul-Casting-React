@@ -1,0 +1,33 @@
+
+.actor-field{
+    background-color: antiquewhite;
+    background-image: linear-gradient(to right, rgb(12, 163, 70),rgb(15, 156, 167));
+    width: 235px;
+    height: 300px;
+    border: 1px solid rgb(240, 7, 96);
+    border-radius:  10px;
+    text-align: center;
+    /* opacity: 0.9; */
+}
+.actor-field img{
+    margin-top: 10px;
+    
+    border-radius: 60%;
+    border: 1px solid rgb(240, 7, 96);
+    
+    width:120px;
+    height:120px;
+    object-fit:cover;
+    object-position:50% 0%;
+    
+}
+.btn{
+    color: whitesmoke;
+    margin-top: 20px;
+    width: 170px;
+    height: 30px;
+    background-color: rgb(240, 7, 96);
+    border: 1px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.cart{
+    background-color: rgb(194, 215, 216);
+    padding: 10px;
+    border: 1px solid orangered;
+    /* background-image: linear-gradient(to right, rgba(185, 182, 37, 0), rgb(8, 132, 148)); */
+    border-radius: 25px;
+    color: rgb(41, 165, 11);
+    font-weight: bolder;
+    line-height: 0.5;
+    text-align: left;
+   
+ }
